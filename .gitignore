@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.npm-cache/
+.DS_Store
+qa/
+public/assets/botanical-sprig-source.png
